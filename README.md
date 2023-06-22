@@ -1,6 +1,5 @@
 # Algorithm Visualizer
-A webpage running a script which animates different sorting algorithms making them easier to understand.
-Best viewed on Laptops or switch to portrait mode on mobile screens.
+Designed a dynamic webpage featuring animated sorting algorithms for enhanced comprehension, optimized for laptop viewing and portrait mode on mobile screens.
 <br>
 
 
@@ -8,20 +7,17 @@ Best viewed on Laptops or switch to portrait mode on mobile screens.
 Elements become green after sorting is finished.
 
 ### Merge Sort
-Two partitions are created at each step first appears red and second appears pink.
-These partitions then merge while the color of elements remain as it was before.
+At each step, the algorithm creates two partitions: the first partition is highlighted in red, while the second partition is highlighted in pink. The elements within the partitions retain their original colors as they merge.
 <br>
 
 ### Quick Sort
-Pivot element turn pink, which changes into cyan after getting correct position.
-Becomes green when all are sorted.\
+The pivot element initially appears pink, but it transforms into cyan once it occupies its correct position. As the sorting progresses, the pivot element turns green when all elements are properly sorted.
 <br>
 
 ### Heap Sort
-Elements appear pink in heap and turns cyan when sorted.
-Becomes green when all are sorted.\
+In the heap sort algorithm, the elements initially appear pink and then transition to cyan as they get sorted. Once all the elements are properly sorted, they turn green.
 <br>
 
 ### Bubble Sort
-Elements which are being compared appear red and pink. Sorted elements appear cyan.\
+Elements which are being compared appear red and pink. Sorted elements appear cyan.
 <br>
