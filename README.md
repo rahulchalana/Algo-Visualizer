@@ -1,4 +1,4 @@
-# Algorithm Visualizer
+# SortXplorer
 Designed a dynamic webpage featuring animated sorting algorithms for enhanced comprehension, optimized for laptop viewing and portrait mode on mobile screens.
 <br>
 
